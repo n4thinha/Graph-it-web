@@ -1,3 +1,31 @@
-#serviços .ícone{
-    width: 100%
+#menu .alert-warning {
+    color: #ffffff;
+    background-color: #6a28e5;
+    border-color: #6a28e5;
+}
+
+#menu .alert {
+    margin-bottom: 0px;
+}
+
+#menu .bg-light {
+    background-color: #ffffff !important;
+}
+
+#menu .logo-larg {
+    width: 64px;
+}
+
+html {
+    background-color: #6a28e5;
+}
+
+#menu .btn-link {
+    color:#000000e6;
+}
+
+#menu .btn-primary {
+    background-color: #6a28e5;
+    border-color: #6a28e5;
+    border-radius: 50px;
 }
